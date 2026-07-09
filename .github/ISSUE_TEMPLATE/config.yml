@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Questions, ideas or general chat
-    url: https://isaacadjei.me
-    about: For a question or an idea, reach me through my site rather than opening an issue.
+    url: https://isaacadjei.me/contact
+    about: For a question or an idea, reach me through my contact page rather than opening an issue.
   - name: Report a security issue
     url: https://isaacadjei.me/security-policy
     about: Please report security issues privately by following the policy, never a public issue.
