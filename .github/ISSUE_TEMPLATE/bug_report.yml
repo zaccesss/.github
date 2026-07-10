@@ -1,0 +1,58 @@
+name: Bug report
+description: Something is not working as expected
+title: "fix: "
+labels: [bug]
+assignees: [zaccesss]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. A clear description helps me fix it faster.
+
+        > This is for bugs, not security issues. For a security problem, please follow the [security policy](https://github.com/zaccesss/security-policy) privately instead of opening a public issue.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: A clear description of the problem, with what you expected instead.
+      placeholder: When I ..., I expected ..., but instead ...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can I see it myself? A small example, a link or a screenshot helps a lot. For hardware, tell me your setup and wiring.
+      placeholder: |
+        1. ...
+        2. ...
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Anything else that helps, like your environment, versions, board or parts.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: I have searched for an existing issue that already reports this.
+          required: true
+        - label: This is not a security issue. Security problems go through the [security policy](https://github.com/zaccesss/security-policy) privately.
+          required: true
+        - label: I have read the [contributing guide](https://github.com/zaccesss/contribute) and the [code of conduct](https://github.com/zaccesss/code-of-conduct).
+          required: true
+        - label: I have written this in my own words, not pasted from an AI tool.
+          required: true
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Willing to help?
+      description: Optional, and no pressure. It just moves things along.
+      options:
+        - label: I would be willing to open a pull request to fix this.
+        - label: I would be willing to help with tests or a reproduction.
