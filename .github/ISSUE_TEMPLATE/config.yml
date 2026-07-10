@@ -1,11 +1,17 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Code of conduct
+    url: https://github.com/zaccesss/code-of-conduct
+    about: The standards I expect for any interaction on my projects.
   - name: Contributing guide
     url: https://github.com/zaccesss/contribute
     about: How to report a bug, suggest a change or open a pull request.
-  - name: Questions and ideas
-    url: https://isaacadjei.me/contact
-    about: For a question or a chat, reach me through my contact page.
   - name: Report a security issue
     url: https://github.com/zaccesss/security-policy
     about: Report security issues privately by following the policy, never a public issue.
+  - name: Questions or ideas
+    url: https://isaacadjei.me/contact
+    about: For a question or a chat, reach me through my contact page.
+  - name: Prefer email?
+    url: mailto:contact@isaacadjei.me
+    about: Reach me directly at contact@isaacadjei.me.
