@@ -1,7 +1,6 @@
 # Security Policy
 
-## Reporting a vulnerability
+> [!IMPORTANT]
+> Please report a security problem privately to contact@isaacadjei.me. Do not open a public issue or pull request. If the repository has its own security policy, follow that.
 
-Please do not open a public issue or pull request for a security problem. Report it privately to contact@isaacadjei.me instead.
-
-The full policy, covering the scope, the disclosure process and the expected response times, lives at [isaacadjei.me/security-policy](https://isaacadjei.me/security-policy).
+The full policy, covering the scope, the disclosure process and the expected response times, is on [my site](https://isaacadjei.me/security-policy) and in [zaccesss/security-policy](https://github.com/zaccesss/security-policy).

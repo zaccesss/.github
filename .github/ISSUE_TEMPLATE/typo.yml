@@ -1,0 +1,33 @@
+name: Typo or small fix
+description: Spotted a typo or a small wording slip
+title: "docs: "
+labels: [documentation]
+assignees: [zaccesss]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For a trivial typo you are welcome to skip this and open a pull request directly. Thank you either way.
+  - type: textarea
+    id: where
+    attributes:
+      label: Where is it
+      description: The file, page or line, with what it should say.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you submit
+      options:
+        - label: I have checked this is not already reported or fixed.
+          required: true
+        - label: I have written this in my own words, not pasted from an AI tool.
+          required: true
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Willing to help?
+      description: Optional. Typo fixes are very welcome as a quick pull request.
+      options:
+        - label: I would be happy to open a pull request for this myself.

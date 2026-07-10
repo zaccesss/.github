@@ -1,10 +1,7 @@
 # Contributing
 
-Thanks for taking an interest. These are mostly personal projects, so I am not usually looking for outside contributions, but I always appreciate a heads-up when something is wrong or could be better.
+Thank you for your interest. I keep one shared contributing guide for all my projects in a single place, so it stays consistent and covers software, hardware, writing and everything in between.
 
-- **Spotted a bug or a small improvement?** Open an issue and describe it clearly. That is the most useful thing you can do.
-- **Have a question?** Use the repository's Discussions if it has them. Otherwise reach me at contact@isaacadjei.me or through my [contact page](https://isaacadjei.me/contact).
-- **Thinking of a pull request?** Please open an issue first, so we can agree it is worth doing before you spend time on it.
-- **Security issue?** Do not open a public issue. See [SECURITY.md](SECURITY.md).
+Read it on [my site](https://isaacadjei.me/contribute) or in [zaccesss/contribute](https://github.com/zaccesss/contribute). It covers how to report a bug, suggest a change, open a pull request, use AI tools sensibly and get in touch. A repository with its own contributing notes takes precedence over this shared guide.
 
-If a specific repository has its own contributing guide, that one takes precedence over this default.
+If you are unsure about anything, reach me at contact@isaacadjei.me or through my [contact page](https://isaacadjei.me/contact). For a security issue, follow the repository's own security policy if it has one, otherwise my [security policy](https://isaacadjei.me/security-policy).

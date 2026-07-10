@@ -1,7 +1,8 @@
 # Code of Conduct
 
-These are my personal repositories. Most are not open projects and are not set up to take external contributions, pull requests, issues or discussions.
+This code of conduct applies across all my projects, software or hardware, public or private. In short: take part respectfully, without harassment, spam or personal attacks; anything abusive gets removed.
 
-Where a repository does invite interaction, keep it respectful, on topic and free of spam or harassment. Anything abusive gets removed and blocked.
+> [!NOTE]
+> To report a concern, reach me privately at contact@isaacadjei.me or through my [contact page](https://isaacadjei.me/contact).
 
-Found a security issue? Please follow [SECURITY.md](SECURITY.md). For anything else, reach me at contact@isaacadjei.me.
+The full code of conduct, the Contributor Covenant that I adopt in full, is on [my site](https://isaacadjei.me/code-of-conduct) and in [zaccesss/code-of-conduct](https://github.com/zaccesss/code-of-conduct). A repository with its own code of conduct takes precedence over this one.
