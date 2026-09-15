@@ -10,6 +10,7 @@ Default community-health files for my GitHub account. GitHub falls back to the f
 - [`SUPPORT.md`](SUPPORT.md) - where to go for help.
 - [`.github/FUNDING.yml`](.github/FUNDING.yml) - the sponsor links.
 - [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE) and [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md) - the default issue and pull request templates.
+- [`CHANGELOG.md`](CHANGELOG.md) - what changed here and when.
 
 A repository with its own version of any of these overrides the default here.
 

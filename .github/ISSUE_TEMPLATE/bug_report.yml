@@ -52,7 +52,7 @@ body:
     id: help
     attributes:
       label: Willing to help?
-      description: Optional, and no pressure. It just moves things along.
+      description: Optional. No pressure, it just moves things along.
       options:
         - label: I would be willing to open a pull request to fix this.
         - label: I would be willing to help with tests or a reproduction.
