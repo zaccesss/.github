@@ -8,6 +8,7 @@ Default community-health files for my GitHub account. GitHub falls back to the f
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) - how to flag something or propose a change.
 - [`SECURITY.md`](SECURITY.md) - how to report a security issue privately.
 - [`SUPPORT.md`](SUPPORT.md) - where to go for help.
+- [`ACCESSIBILITY.md`](ACCESSIBILITY.md) - how the documentation is written to be accessible and how to report a barrier.
 - [`.github/FUNDING.yml`](.github/FUNDING.yml) - the sponsor links.
 - [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE) and [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md) - the default issue and pull request templates.
 - [`CHANGELOG.md`](CHANGELOG.md) - what changed here and when.
