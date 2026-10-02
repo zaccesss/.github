@@ -19,3 +19,8 @@ Documentation here aims to:
 If anything in a repository is hard to read or use, open an issue there describing what happened and what would help. Accessibility problems are treated as bugs.
 
 For anything private, use [isaacadjei.me/contact](https://isaacadjei.me/contact).
+
+## The shared statement
+
+> [!NOTE]
+> I keep one shared accessibility statement for all my projects: [zaccesss/accessibility](https://github.com/zaccesss/accessibility) or on [my site](https://isaacadjei.me/accessibility). This file takes precedence where the two differ.
