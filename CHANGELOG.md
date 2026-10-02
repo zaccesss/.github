@@ -7,6 +7,10 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Changed
+
+- `ACCESSIBILITY.md` links the shared accessibility statement.
+
 ### Added
 
 - `ACCESSIBILITY.md`, a default accessibility statement for every repository without its own
