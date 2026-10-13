@@ -9,6 +9,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+- `SECURITY.md` names GitHub private vulnerability reporting as a route alongside email.
 - `ACCESSIBILITY.md` links the shared accessibility statement.
 
 ### Added
