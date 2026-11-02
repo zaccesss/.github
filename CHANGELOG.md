@@ -9,6 +9,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+- Community files follow the [AI policy](https://github.com/zaccesss/ai-policy): pull requests declare AI use and issue forms ask whether AI helped. Security reports go to security@isaacadjei.me.
 - `SECURITY.md` names GitHub private vulnerability reporting as a route alongside email.
 - `ACCESSIBILITY.md` links the shared accessibility statement.
 

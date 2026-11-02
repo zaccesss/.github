@@ -15,6 +15,16 @@ body:
       description: The file, page or line, with what it should say.
     validations:
       required: true
+  - type: dropdown
+    id: ai-use
+    attributes:
+      label: AI use
+      description: "Required. Did AI help you find, test or check this? Write the title and description yourself either way. See the [AI policy](https://github.com/zaccesss/ai-policy). Dictation, translation and spelling tools do not count."
+      options:
+        - No AI was used
+        - "Yes: AI helped me find, test or check it"
+    validations:
+      required: true
   - type: checkboxes
     id: checks
     attributes:
@@ -22,7 +32,7 @@ body:
       options:
         - label: I have checked this is not already reported or fixed.
           required: true
-        - label: I have written this in my own words, not pasted from an AI tool.
+        - label: I wrote this title and description myself, following the [AI policy](https://github.com/zaccesss/ai-policy).
           required: true
   - type: checkboxes
     id: help
