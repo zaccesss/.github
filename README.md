@@ -1,5 +1,8 @@
 # .github
 
+[![Markdown Lint](https://github.com/zaccesss/.github/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/zaccesss/.github/actions/workflows/markdownlint.yml)
+[![Licence: PolyForm Noncommercial](https://img.shields.io/badge/licence-PolyForm%20Noncommercial-green.svg)](LICENSE)
+
 Default community-health files for my GitHub account. GitHub falls back to the files here for any of my repositories that does not carry its own copy, so I keep one consistent set in one place.
 
 ## What is here
